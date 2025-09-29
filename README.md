@@ -21,3 +21,7 @@ https://colab.research.google.com/github/jakob-steuer/chemoinformatics_2025/blob
 **Exercise 3: SMILES**
 
 https://colab.research.google.com/github/jakob-steuer/chemoinformatics_2025/blob/main/chemoinformatics_3_smiles.ipynb
+
+**Exercise 4: Chemical Databases**
+
+https://colab.research.google.com//jakob-steuer/chemoinformatics_2025/blob/main/chemoinformatics_4_chemical_databases.ipynb
