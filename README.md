@@ -19,3 +19,6 @@ Click the links below to open a notebook directly from this GitHub repository in
 [**Exercise 4: Chemical Databases**](https://colab.research.google.com/github/jakob-steuer/chemoinformatics_2025/blob/main/chemoinformatics_4_chemical_databases.ipynb)
 
 [**Exercise 5: Molecular Dynamics Simulation Analysis**](https://colab.research.google.com/github/jakob-steuer/chemoinformatics_2025/blob/main/chemoinformatics_5_MD_simulation_analysis.ipynb)
+
+[**Exercise 6: QSAR and NLP Based Information Extraction**](https://colab.research.google.com/github/jakob-steuer/chemoinformatics_2025/blob/main/chemoinformatics_6_qsar_nlp_search.ipynb)
+
