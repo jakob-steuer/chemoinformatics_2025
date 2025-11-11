@@ -1,6 +1,6 @@
 # chemoinformatics_2025
 
-Exercises accompanying the course "Chemoinformatics" at the FHNW.
+Exercises for the course "Chemoinformatics" (WS 2025) at the FHNW.
 
 ## How to Run the Notebooks
 
